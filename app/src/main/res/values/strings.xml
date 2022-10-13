@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="ask1">KOCHAM PB1</string>
+    <string name="ask2">KOCHAM PB2</string>
+    <string name="ask3">KOCHAM PB3</string>
+    <string name="ask4">KOCHAM PB4</string>
+    <string name="ask5">KOCHAM PB5</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedz</string>
+    <string name="correct_answer">Prawidlowa odpowiedz</string>
+
+</resources>
