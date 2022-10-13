@@ -3,11 +3,11 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
-    <string name="ask1">KOCHAM PB1</string>
-    <string name="ask2">KOCHAM PB2</string>
-    <string name="ask3">KOCHAM PB3</string>
-    <string name="ask4">KOCHAM PB4</string>
-    <string name="ask5">KOCHAM PB5</string>
+    <string name="ask1">Czy ucze sie na pb ?</string>
+    <string name="ask2">Czy koń ma rogi ?</string>
+    <string name="ask3">Czy rok ma 365 dni ?</string>
+    <string name="ask4">Czy księżyc świeci w dzien ?</string>
+    <string name="ask5">Czy pies ma sierść ?</string>
     <string name="incorrect_answer">Nieprawidłowa odpowiedz</string>
     <string name="correct_answer">Prawidlowa odpowiedz</string>
 
