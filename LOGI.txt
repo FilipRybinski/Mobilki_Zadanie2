@@ -1,0 +1,36 @@
+2022-10-19 22:11:19.382 10522-10522 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-19 22:11:19.384 10522-10522 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
+2022-10-19 22:11:19.460 10522-10547 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3df9a0: ver 2 0 (tinfo 0xefdd1590)
+2022-10-19 22:11:21.085 10522-10522 OnPause                 pb.edu.pb.quiz                       D  onPause: Zapauzowane
+2022-10-19 22:11:21.092 10522-10547 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3df9a0: ver 2 0 (tinfo 0xefdd1590)
+2022-10-19 22:11:21.093 10522-10522 OnStop                  pb.edu.pb.quiz                       D  onStop: Zakończona
+2022-10-19 22:11:23.054 10522-10522 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-19 22:11:23.056 10522-10522 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
+2022-10-19 22:11:23.108 10522-10547 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3df9a0: ver 2 0 (tinfo 0xefdd1590)
+2022-10-19 22:11:24.510 10522-10522 OnPause                 pb.edu.pb.quiz                       D  onPause: Zapauzowane
+2022-10-19 22:11:25.066 10522-10547 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3df9a0: ver 2 0 (tinfo 0xefdd1590)
+2022-10-19 22:11:25.093 10522-10522 OnStop                  pb.edu.pb.quiz                       D  onStop: Zakończona
+2022-10-19 22:11:25.094 10522-10522 OnDestory               pb.edu.pb.quiz                       D  onDestroy: Zniszczona
+2022-10-19 22:11:26.842 10522-10522 ActivityThread          pb.edu.pb.quiz                       W  handleWindowVisibility: no activity for token android.os.BinderProxy@d6b5eaf
+2022-10-19 22:11:26.909 10522-10522 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-19 22:11:26.911 10522-10522 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
+2022-10-19 22:11:26.992 10522-10547 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3df9a0: ver 2 0 (tinfo 0xefdd1590)
+
+
+
+PO DODANIU SAVE INDEX
+2022-10-19 22:30:02.632 10762-10762 OnPause                 pb.edu.pb.quiz                       D  onPause: Zapauzowane
+2022-10-19 22:30:02.745 10762-10809 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3dfe80: ver 2 0 (tinfo 0xefdd16b0)
+2022-10-19 22:30:02.748 10762-10762 OnStop                  pb.edu.pb.quiz                       D  onStop: Zakończona
+2022-10-19 22:30:02.748 10762-10762 onSaveInstanceState     pb.edu.pb.quiz                       D  Wywołana została metoda:onSaveInstanceState: 
+2022-10-19 22:30:04.606 10762-10762 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-19 22:30:04.606 10762-10762 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
+2022-10-19 22:30:04.640 10762-10809 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3dfe80: ver 2 0 (tinfo 0xefdd16b0)
+2022-10-19 22:30:07.510 10762-10762 OnPause                 pb.edu.pb.quiz                       D  onPause: Zapauzowane
+2022-10-19 22:30:08.081 10762-10809 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3dfe80: ver 2 0 (tinfo 0xefdd16b0)
+2022-10-19 22:30:08.112 10762-10762 OnStop                  pb.edu.pb.quiz                       D  onStop: Zakończona
+2022-10-19 22:30:08.113 10762-10762 OnDestory               pb.edu.pb.quiz                       D  onDestroy: Zniszczona
+2022-10-19 22:30:09.742 10762-10762 ActivityThread          pb.edu.pb.quiz                       W  handleWindowVisibility: no activity for token android.os.BinderProxy@4fd4a56
+2022-10-19 22:30:09.892 10762-10762 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-19 22:30:09.894 10762-10762 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
+2022-10-19 22:30:09.947 10762-10809 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3dfe80: ver 2 0 (tinfo 0xefdd16b0)
