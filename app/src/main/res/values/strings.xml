@@ -10,5 +10,5 @@
     <string name="ask5">Czy pies ma sierść ?</string>
     <string name="incorrect_answer">Nieprawidłowa odpowiedz</string>
     <string name="correct_answer">Prawidlowa odpowiedz</string>
-
+    <string name="answer_was_shown">"Odpowiedź była juz wyświetlona!"</string>
 </resources>
