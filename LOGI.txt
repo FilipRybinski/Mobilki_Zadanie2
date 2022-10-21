@@ -34,3 +34,7 @@ PO DODANIU SAVE INDEX
 2022-10-19 22:30:09.892 10762-10762 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
 2022-10-19 22:30:09.894 10762-10762 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
 2022-10-19 22:30:09.947 10762-10809 EGL_emulation           pb.edu.pb.quiz                       D  eglMakeCurrent: 0xef3dfe80: ver 2 0 (tinfo 0xefdd16b0)
+2022-10-21 10:27:43.078 14054-14054 OnStop                  pb.edu.pb.quiz                       D  onStop: Zakończona
+2022-10-21 10:27:43.081 14054-14054 onSaveInstanceState     pb.edu.pb.quiz                       D  Wywołana została metoda:onSaveInstanceState: 
+2022-10-21 10:27:45.641 14054-14054 OnStart                 pb.edu.pb.quiz                       D  onStart: Uruchomiona
+2022-10-21 10:27:45.643 14054-14054 OnResume                pb.edu.pb.quiz                       D  onResume: Wznowione
